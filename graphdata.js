@@ -1,7 +1,7 @@
 // AUTOMATICALLY GENERATED GRAPH DESCRIPTION
 document.title = "Chapel Performance Graphs for puma";
 var pageTitle = "Chapel Performance Graphs for puma";
-var runDate= "2019-07-09";
+var runDate= "2019-07-10";
 var numericX = false;
 var configurations = [];
 var configurationsVis = [];
@@ -12,7 +12,7 @@ var allGraphs = [
    "datfname" : "CHGL0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-06-17",
-   "enddate" : "2019-07-09",
+   "enddate" : "2019-07-10",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -23,7 +23,7 @@ var allGraphs = [
    "datfname" : "activeDNS0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-09",
-   "enddate" : "2019-07-09",
+   "enddate" : "2019-07-10",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
