@@ -33,7 +33,7 @@ var allGraphs = [
    "suites" : [],
    "datfname" : "BTER0.json",
    "ylabel" : "Time (seconds)",
-   "startdate" : "2019-06-17",
+   "startdate" : "2019-07-11",
    "enddate" : "2019-07-11",
    "displayrange" : true,
    "defaultexpand" : false,
