@@ -29,7 +29,7 @@ var allGraphs = [
    "annotations" : []
 },
 {
-   "title" : "BTER Hypergraph Generation (100K Vertices, 200K Edges, 1M Inclusions)",
+   "title" : "BTER Hypergraph Generation (10M Vertices, 20M Edges, 100M Inclusions)",
    "suites" : [],
    "datfname" : "BTER0.json",
    "ylabel" : "Time (seconds)",
