@@ -18,11 +18,11 @@ var allGraphs = [
    "annotations" : []
 },
 {
-   "title" : "Chung-Lu Hypergraph Generation (1M Vertices, 2M Edges, 10M Inclusions)",
+   "title" : "Chung-Lu Hypergraph Generation (10M Vertices, 20M Edges, 100M Inclusions)",
    "suites" : [],
    "datfname" : "ChungLu0.json",
    "ylabel" : "Time (seconds)",
-   "startdate" : "2019-06-17",
+   "startdate" : "2019-07-11",
    "enddate" : "2019-07-11",
    "displayrange" : true,
    "defaultexpand" : false,
