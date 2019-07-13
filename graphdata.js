@@ -60,6 +60,28 @@ var allGraphs = [
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
+},
+{
+   "title" : "WorkQueue Microbenchmark",
+   "suites" : [],
+   "datfname" : "WorkQueueMicrobenchmark0.json",
+   "ylabel" : "Time (seconds)",
+   "startdate" : "2019-07-12",
+   "enddate" : "2019-07-12",
+   "displayrange" : true,
+   "defaultexpand" : false,
+   "annotations" : []
+},
+{
+   "title" : "PropertyMap vs HashedDist Microbenchmark",
+   "suites" : [],
+   "datfname" : "PropertyMapMicrobenchmark0.json",
+   "ylabel" : "Time (seconds)",
+   "startdate" : "2019-07-12",
+   "enddate" : "2019-07-12",
+   "displayrange" : true,
+   "defaultexpand" : false,
+   "annotations" : []
 }
 ];
 var perfSuites = [
