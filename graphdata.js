@@ -82,6 +82,17 @@ var allGraphs = [
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
+},
+{
+   "title" : "Aggregation Buffer - Bale Histogram",
+   "suites" : [],
+   "datfname" : "AggregationBufferMicrobenchmark0.json",
+   "ylabel" : "Time (seconds)",
+   "startdate" : "2019-07-16",
+   "enddate" : "2019-07-16",
+   "displayrange" : true,
+   "defaultexpand" : false,
+   "annotations" : []
 }
 ];
 var perfSuites = [
