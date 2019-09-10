@@ -1,0 +1,6 @@
+# Date	Constructed Property Map:	Constructed HyperGraph:	Populated HyperGraph:	Removed duplicates:	Vertex Degree Distribution:	Edge Cardinality Distribution:	Vertex Component Size Distribution (s=1):	Edge Component Size Distribution (s=1):	Vertex Component Size Distribution (s=2):	Edge Component Size Distribution (s=2):	Vertex Component Size Distribution (s=3):	Edge Component Size Distribution (s=3):	Collected Metrics:	Collapsed Vertices in HyperGraph:	Collapsed Edges in HyperGraph:
+07/01/19 	3.6196	0.307362	36.5821	0.015868	0.285418	0.512061	-	-	-	-	-	-	-	-	-
+07/01/19 	0.13224	0.21771	0.221847	0.003892	0.045436	0.053589	39.9733	56.0911	4.5682	0.117845	2.07841	0.133868	103.009	0.518946	0.928603
+07/03/19 	0.137169	0.146571	0.224762	0.003937	0.045599	0.038085	38.5907	56.9381	4.83291	0.138664	2.25252	0.147431	102.946	0.489243	0.888283
+07/03/19 	0.135018	0.17303	0.219634	0.003983	0.053566	0.012221	0.554919	41.9843	0.227638	0.1203	0.180106	0.122731	43.2438	0.501473	0.881806
+07/03/19 	0.154597	0.153856	0.236827	0.015841	0.042408	0.01915	0.57115	42.274	0.230357	0.123183	0.176575	0.128182	43.546	0.502779	0.877243
