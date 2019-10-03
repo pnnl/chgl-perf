@@ -1,7 +1,7 @@
 // AUTOMATICALLY GENERATED GRAPH DESCRIPTION
 document.title = "CHGL Performance Graphs for puma";
 var pageTitle = "CHGL Performance Graphs for puma";
-var runDate= "2019-10-02";
+var runDate= "2019-10-03";
 var numericX = false;
 var configurations = [];
 var configurationsVis = [];
@@ -12,7 +12,7 @@ var allGraphs = [
    "datfname" : "ErdosRenyi0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-06-17",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -23,7 +23,7 @@ var allGraphs = [
    "datfname" : "ChungLu0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-11",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -34,7 +34,7 @@ var allGraphs = [
    "datfname" : "BTER0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-11",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -45,7 +45,7 @@ var allGraphs = [
    "datfname" : "activeDNS0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-09",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -56,7 +56,7 @@ var allGraphs = [
    "datfname" : "AdjListHyperGraphMicrobenchmark0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-12",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -67,7 +67,7 @@ var allGraphs = [
    "datfname" : "WorkQueueMicrobenchmark0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-12",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -78,7 +78,7 @@ var allGraphs = [
    "datfname" : "PropertyMapMicrobenchmark0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-16",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -89,7 +89,7 @@ var allGraphs = [
    "datfname" : "AggregationBufferMicrobenchmark0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-07-16",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -100,7 +100,7 @@ var allGraphs = [
    "datfname" : "BFS0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-08-04",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
@@ -111,7 +111,7 @@ var allGraphs = [
    "datfname" : "TriangleCounting0.json",
    "ylabel" : "Time (seconds)",
    "startdate" : "2019-08-04",
-   "enddate" : "2019-10-02",
+   "enddate" : "2019-10-03",
    "displayrange" : true,
    "defaultexpand" : false,
    "annotations" : []
